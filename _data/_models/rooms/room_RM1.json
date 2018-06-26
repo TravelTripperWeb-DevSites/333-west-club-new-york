@@ -1,0 +1,145 @@
+{
+  "name_localized": {
+    "en": "Standard Double Room, 1 Queen Bed",
+    "es": "Standard Double Room, 1 Queen Bed"
+  },
+  "short_description_localized": {
+    "en": "Standard Double Room, 1 Queen Bed",
+    "es": "Standard Double Room, 1 Queen Bed"
+  },
+  "description_localized": {
+    "en": "<strong>1 Queen Bed</strong><br />193 sq feet (18 sq meters)<br /><br /><b>Internet</b> - Free WiFi and wired Internet access<br /> <b>Entertainment</b> - Flat-screen TV with cable channels<br /><b>Food & Drink</b> - Coffee/tea maker and refrigerator (on request) <br /><b>Sleep</b> - Hypo-allergenic bedding <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, free toiletries, and a hair dryer<br /><b>Practical</b> - Free local calls, iron/ironing board, and desk; rollaway/extra beds and free cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;",
+    "es": "<strong>1 Queen Bed</strong><br />193 sq feet (18 sq meters)<br /><br /><b>Internet</b> - Free WiFi and wired Internet access<br /> <b>Entertainment</b> - Flat-screen TV with cable channels<br /><b>Food & Drink</b> - Coffee/tea maker and refrigerator (on request) <br /><b>Sleep</b> - Hypo-allergenic bedding <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, free toiletries, and a hair dryer<br /><b>Practical</b> - Free local calls, iron/ironing board, and desk; rollaway/extra beds and free cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free local calls"
+      },
+      {
+        "name": "Free wired Internet"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Linens included"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Number of bathrooms - 1"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Shower/tub combination"
+      },
+      {
+        "name": "Towels included"
+      }
+    ],
+    "es": [
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free local calls"
+      },
+      {
+        "name": "Free wired Internet"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Linens included"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Number of bathrooms - 1"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Shower/tub combination"
+      },
+      {
+        "name": "Towels included"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "": "RM1",
+  "order": 1
+}

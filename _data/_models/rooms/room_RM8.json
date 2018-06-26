@@ -1,0 +1,145 @@
+{
+  "name_localized": {
+    "en": "Suite, 1 Queen Bed with Sofa bed, Refrigerator",
+    "es": "Suite, 1 Queen Bed with Sofa bed, Refrigerator"
+  },
+  "short_description_localized": {
+    "en": "Suite, 1 Queen Bed with Sofa bed, Refrigerator",
+    "es": "Suite, 1 Queen Bed with Sofa bed, Refrigerator"
+  },
+  "description_localized": {
+    "en": "<strong>1 Queen Bed and 1 Double Sofa Bed</strong><br /><b>Internet</b> - Free WiFi and wired Internet access<br /> <b>Entertainment</b> - Flat-screen TV, cable channels, and iPod dock<br /><b>Food & Drink</b> - Coffee/tea maker and refrigerator (on request) <br /><b>Sleep</b> - Hypo-allergenic bedding <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, free toiletries, and a hair dryer<br /><b>Practical</b> - Free local calls, iron/ironing board, and desk<br /><b>Comfort</b> - Daily housekeeping<br /><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;",
+    "es": "<strong>1 Queen Bed and 1 Double Sofa Bed</strong><br /><b>Internet</b> - Free WiFi and wired Internet access<br /> <b>Entertainment</b> - Flat-screen TV, cable channels, and iPod dock<br /><b>Food & Drink</b> - Coffee/tea maker and refrigerator (on request) <br /><b>Sleep</b> - Hypo-allergenic bedding <br /><b>Bathroom</b> - Private bathroom, shower/tub combination, free toiletries, and a hair dryer<br /><b>Practical</b> - Free local calls, iron/ironing board, and desk<br /><b>Comfort</b> - Daily housekeeping<br /><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free local calls"
+      },
+      {
+        "name": "Free wired Internet"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Linens included"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Number of bathrooms - 1"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Shower/tub combination"
+      },
+      {
+        "name": "Towels included"
+      }
+    ],
+    "es": [
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free local calls"
+      },
+      {
+        "name": "Free wired Internet"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Linens included"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Number of bathrooms - 1"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Shower/tub combination"
+      },
+      {
+        "name": "Towels included"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "": "RM8",
+  "order": 8
+}
